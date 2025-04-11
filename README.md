@@ -1,7 +1,7 @@
 # TodoApp
 
 The To-Do App is a web application developed in Python using the Flask framework and styled with the Bootstrap CSS framework. This project aims to provide users with a simple interface to manage their tasks. It allows users to add, edit, delete, and track their to-do list items.
-A user only sees his or her tasks.
+A user only sees their tasks.
 
 
 ## Key Features
@@ -42,8 +42,8 @@ https://github.com/klaudiaszostek/TodoApp
 
 Create and activate the virtual environment:
 
-Windows:
 > python -m venv venv
+
 > .\venv\Scripts\activate
 
 
